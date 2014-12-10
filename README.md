@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/radioactivenightmarelabs/desert-transistor.png?label=ready&title=Ready)](https://waffle.io/radioactivenightmarelabs/desert-transistor)
 # Confusion Pulse
 
 > Confusion Pulse allows teachers to model class understanding real time using dynamically generated data. Students can anonymously notifiy a teacher of their confusion during lecture through the online interface. Teachers can see a real-time graphical representation of the room's general level of understanding and 'pulse'. 
